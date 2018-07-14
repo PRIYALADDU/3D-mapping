@@ -1,0 +1,1 @@
+[xyzRefinedPoints,refinedPoses] = bundleAdjustment(xyzPoints,pointTracks,cameraPoses,cameraParameters) 
