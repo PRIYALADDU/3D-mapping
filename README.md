@@ -2,8 +2,9 @@
 
 This repository consists of my undergraduate thesis work:
 
-This repository contains files for feature extracion
-Finding correspondances between the extracted features
-Transformation estimation
-Find the optimal trajectory with graph optimisation
-Building 3D point clouds
+This repository contains files for  
+Feature extracion  
+Finding correspondances between the extracted features  
+Transformation estimation  
+Find the optimal trajectory with graph optimisation  
+Building 3D point clouds  
